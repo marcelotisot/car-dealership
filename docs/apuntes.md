@@ -15,6 +15,9 @@ nest g mo <module-name>
 - Crear controlador
 nest g co <module-name>
 
+- Crear servicio
+nest g s <service-name>
+
 NOTA: Usar el prefijo --no-spec para que no cree los archivos de pruebas
 
 ## Template de editorconfig para proyectos nest
