@@ -1,0 +1,26 @@
+## Comandos CLI de nest
+
+- Crear proyecto
+nest new <project-name>
+
+- Ejecutar servidor en modo de desarrollo
+npm run start:dev
+
+
+
+## Template de editorconfig para proyectos nest
+root = true
+
+[*.{js,ts}]
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+
+[*.json]
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+
+
