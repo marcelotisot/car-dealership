@@ -1,12 +1,21 @@
 ## Comandos CLI de nest
 
+- Ver comandos de ayuda
+nest --help
+
 - Crear proyecto
 nest new <project-name>
 
 - Ejecutar servidor en modo de desarrollo
 npm run start:dev
 
+- Crear modulo
+nest g mo <module-name>
 
+- Crear controlador
+nest g co <module-name>
+
+NOTA: Usar el prefijo --no-spec para que no cree los archivos de pruebas
 
 ## Template de editorconfig para proyectos nest
 root = true
