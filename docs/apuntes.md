@@ -36,3 +36,13 @@ indent_style = space
 indent_size = 2
 
 
+- Generar build de produccion basico
+
+```bash
+nest build
+```
+
+- Ejecutar en modo de produccion
+```bash
+npm run start:prod
+```
